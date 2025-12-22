@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p133526-e1305053.adobeaemcloud.com/bin/franklin.delivery/jgilliam-magento/john-forms-ue/main
+    url: "https://author-p133526-e1305053.adobeaemcloud.com/bin/franklin.delivery/jgilliam-magento/john-forms-ue/main"
     type: "markup"
     suffix: ".html"
