@@ -1,9 +1,10 @@
 {
   "mappings": [
-    "/:/"
+    "/content/john-forms-ue:/",
+    "/content/john-forms-ue/configuration:/.helix/config.json",
+    "/content/john-forms-ue/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/",
-    "/content/dam/"
+    "/content/john-forms-ue"
   ]
 }
