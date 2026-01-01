@@ -2,6 +2,7 @@ mountpoints:
   /:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
 =======
     url: "https://author-p133526-e1305053.adobeaemcloud.com/bin/franklin.delivery/jgilliam-magento/john-forms-ue/main"
@@ -9,5 +10,8 @@ mountpoints:
 =======
     url: https://author-p133526-e1305053.adobeaemcloud.com/bin/franklin.delivery/jgilliam-magento/john-forms-ue/main
 >>>>>>> 68b779a (Update fstab.yaml)
+=======
+    url: "https://author-p133526-e1305053.adobeaemcloud.com/bin/franklin.delivery/jgilliam-magento/john-forms-ue/main"
+>>>>>>> 8d69109 (Update fstab.yaml)
     type: "markup"
     suffix: ".html"
