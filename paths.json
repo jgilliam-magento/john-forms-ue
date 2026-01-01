@@ -2,6 +2,7 @@
   "mappings": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "/content/aem-boilerplate/:/",
     "/content/aem-boilerplate/configuration:/.helix/config.json",
     "/content/aem-boilerplate/metadata:/metadata.json"
@@ -17,6 +18,9 @@
 >>>>>>> de7bdff (Initial commit)
 =======
     "/content/john-forms-ue:/",
+=======
+    "/content/john-forms-ue/:/",
+>>>>>>> c74f7d8 (Update paths.json)
     "/content/john-forms-ue/configuration:/.helix/config.json",
     "/content/john-forms-ue/metadata:/metadata.json"
   ],
