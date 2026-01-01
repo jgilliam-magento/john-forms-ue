@@ -25,7 +25,11 @@
     "/content/john-forms-ue/metadata:/metadata.json"
   ],
   "includes": [
+<<<<<<< HEAD
     "/content/john-forms-ue"
 >>>>>>> 14017ee (Update paths.json)
+=======
+    "/content/john-forms-ue/"
+>>>>>>> c4092fc (Update paths.json)
   ]
 }
