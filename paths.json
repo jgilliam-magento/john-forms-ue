@@ -5,6 +5,8 @@
     "/content/john-forms-ue/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/john-forms-ue/"
+    "/content/john-forms-ue/",
+    "/content/dam/formsanddocuments/",
+    "/content/forms/af/"
   ]
 }
